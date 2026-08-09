@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hej!
+Välkommen till min github-sida.
 
 <!--
 **fridaternstrom-jpg/fridaternstrom-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
