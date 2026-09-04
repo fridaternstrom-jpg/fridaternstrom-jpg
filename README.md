@@ -1,6 +1,15 @@
 ## Hej!
 Välkommen till min github-sida.
 
+###Här kommer jag så småningom lägga ut projekt som jag skapar
+- Småprojekt
+- Skolsaker
+- Saker för skoj
+
+##Önskar du komma i kontakt med mig?
+Maila mig på frida.ternstrom@gmail.com
+
+**Väl mött!**
 <!--
 **fridaternstrom-jpg/fridaternstrom-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
