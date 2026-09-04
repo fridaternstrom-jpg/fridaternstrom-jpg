@@ -1,12 +1,12 @@
-# Hej!
+## Hej!
 Välkommen till min github-sida.
 
-## Här kommer jag så småningom lägga ut projekt som jag skapar
+### Här kommer jag så småningom lägga ut projekt som jag skapar
 - Småprojekt
 - Skolsaker
 - Saker för skoj
 
-##Önskar du komma i kontakt med mig?
+### Önskar du komma i kontakt med mig?
 Maila mig på frida.ternstrom@gmail.com
 
 **Väl mött!**
