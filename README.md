@@ -1,7 +1,7 @@
-## Hej!
+# Hej!
 Välkommen till min github-sida.
 
-###Här kommer jag så småningom lägga ut projekt som jag skapar
+## Här kommer jag så småningom lägga ut projekt som jag skapar
 - Småprojekt
 - Skolsaker
 - Saker för skoj
