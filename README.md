@@ -1,26 +1,19 @@
 ## Hej!
-Välkommen till min github-sida.
+:sparkles: Välkommen till min github-sida. :sparkles:
 
-### Här kommer jag så småningom lägga ut projekt som jag skapar
+### Jag heter Frida och läser webbuteckling på **Mittuniversitetet**
+Just nu går jag bara en introducerande kursen på utbildningen, varför mina sidor kan verka vara lite i utvecklingsfasen. Men det kommer att bli bättre! *Mycket bättre.*
+
+### På sidan kommer du att kunna se bland annat: 
 - Småprojekt
 - Skolsaker
 - Saker för skoj
 
 ### Önskar du komma i kontakt med mig?
-Maila mig på frida.ternstrom@gmail.com
+📫Maila mig på frida.ternstrom@gmail.com
+
+Som Picard säger:
+> Make it so.
 
 **Väl mött!**
-<!--
-**fridaternstrom-jpg/fridaternstrom-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
