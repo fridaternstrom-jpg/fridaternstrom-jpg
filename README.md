@@ -12,7 +12,8 @@ Just nu går jag bara en introducerande kursen på utbildningen, varför mina si
 ### Önskar du komma i kontakt med mig?
 📫Maila mig på frida.ternstrom@gmail.com
 
-Som Picard säger:
+
+Och sist men inte minst, som Picard säger:
 > Make it so.
 
 **Väl mött!**
